@@ -13,14 +13,14 @@ Reviewer: AI Review Assistant
 ```
 
 ### Main Analysis Table
-| Category | Criteria | Assessment | Score (1-5) | Comments | Recommendation |
+| Category | Criteria | Assessment | Score (1-4) | Comments | Recommendation |
 |----------|----------|------------|-------------|----------|----------------|
-| [Category Name] | [Specific Requirement] | [Brief Evaluation] | [1-5] | [Detailed Explanation] | [Action Item] |
+| [Category Name] | [Specific Requirement] | [Brief Evaluation] | [1-4] | [Detailed Explanation] | [Action Item] |
 
 ### Summary Section
 ```
 OVERALL ASSESSMENT
-Overall Score: [X.X]/5.0
+Overall Score: [X.X]/4.0
 Overall Recommendation: [APPROVE/CONDITIONAL APPROVAL/NEEDS REVISION/REJECT]
 
 TOP 3 CONCERNS:
@@ -48,7 +48,7 @@ Developer: Piri
 Review Date: 2024-01-15
 Reviewer: AI Review Assistant
 
-| Category | Criteria | Assessment | Score (1-5) | Comments | Recommendation |
+| Category | Criteria | Assessment | Score (1-4) | Comments | Recommendation |
 |----------|----------|------------|-------------|----------|----------------|
 | Technical | Technology Readiness | Established REDD+ methodology | 4 | Technology is proven with multiple successful deployments. Strong technical foundation. | Continue with current approach |
 | Technical | Implementation Plan | Detailed 5-year roadmap provided | 3 | Plan covers major milestones but lacks specific risk mitigation strategies | Add detailed contingency planning |
@@ -60,7 +60,7 @@ Reviewer: AI Review Assistant
 | Risk | Operational | Risk register incomplete | 2 | Missing several operational risk categories including weather and political risks | Complete comprehensive risk assessment |
 
 OVERALL ASSESSMENT
-Overall Score: 3.5/5.0
+Overall Score: 3.5/4.0
 Overall Recommendation: CONDITIONAL APPROVAL
 
 TOP 3 CONCERNS:
@@ -88,7 +88,7 @@ Developer: [Developer Name]
 Review Date: [Date]
 Reviewer: AI Review Assistant
 
-| Category | Criteria | Assessment | Score (1-5) | Comments | Recommendation |
+| Category | Criteria | Assessment | Score (1-4) | Comments | Recommendation |
 |----------|----------|------------|-------------|----------|----------------|
 | Technical | Forest Management Plan | FSC-certified management approach | 4 | Comprehensive plan following FSC standards with clear harvesting schedules | Maintain certification requirements |
 | Technical | Monitoring Systems | Remote sensing + ground plots | 3 | Good monitoring framework but ground plot density below optimal | Increase plot sampling frequency |
@@ -100,7 +100,7 @@ Reviewer: AI Review Assistant
 | Risk | Climate Risk | Climate resilience planning | 3 | Basic climate adaptation measures but needs enhancement | Strengthen climate resilience plan |
 
 OVERALL ASSESSMENT
-Overall Score: 3.3/5.0
+Overall Score: 3.3/4.0
 Overall Recommendation: NEEDS REVISION
 
 TOP 3 CONCERNS:
